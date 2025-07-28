@@ -1,6 +1,7 @@
 ### About me
 
-<h1 align="left">👋Turning dreams into code — SeongGeon Kim</h1>
+<h1 align="left">Turning dreams into code — SeongGeon Kim <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21jcWR1cDJzeHphNTJzMnl2aDJvYTZ0a3VjaGFkdDJmbm1va296cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="230">
 <h3 align="left">I am working with the mission of change the world a better than yesterday !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-seonggeon&label=Profile%20views&color=0e75b6&style=flat" alt="kim-seonggeon" /> </p>
