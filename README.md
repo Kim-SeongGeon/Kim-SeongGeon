@@ -6,9 +6,49 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-seonggeon&label=Profile%20views&color=0e75b6&style=flat" alt="kim-seonggeon" /> </p>
 
-- 🔭 I’m currently working on **DS LAB, We-Robot Project**
-
 - 📫 How to reach me **kimseonggun524@gmail.com or kevin4339@naver.com**
+
+- 🔭 I’m currently working on ...
+
+***🔹 DS LAB – Drone Ground Station Integration (Work in Progress)***  
+Developing a custom Ground Control System by integrating Mission Planner with X-Plane simulator:
+```
+✈️ Real-time drone communication and simulation
+
+🔧 Focus on SITL (Software-In-The-Loop) and MAVLink protocol
+
+🛠️ Tools: Python, Ubuntu, ArduPilot, Mission Planner, X-Plane
+```
+
+***🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)***  
+Creating an AI-powered emotional companion robot to support elderly living alone:
+```
+💬 Emotion-based conversational AI using KoGPT and TTS
+
+🤖 Integrated with Raspberry Pi for real-world deployment
+
+🛠️ Tools: Python, NLP, TTS, Embedded Systems, Figma
+```
+
+***🔹 Smart Kiosk System (Upcoming)***  
+Planning a smart interactive kiosk system for public service or store management:
+```
+🖥️ Optimized for 1920x1080 kiosk display
+
+📦 Menu/store management interface and real-time interaction
+
+🛠️ Tools: Java (JSP), HTML/CSS, Bootstrap
+```
+
+***🔹 Personal Java Project (Always in progress)***  
+Developing a standalone Java application as a learning and portfolio enhancement project:
+```
+💡 Focus on multi-threaded socket communication and custom UI
+
+📁 Includes features like messaging, file transfer, and client-server architecture
+
+🛠️ Tools: Java, Swing, Threading, Socket Programming
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
