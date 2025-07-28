@@ -20,7 +20,7 @@ Developing a custom Ground Control System by integrating Mission Planner with X-
 🛠️ Tools: C#, Python, Ubuntu, ArduPilot, Mission Planner, X-Plane
 ```
 
-***🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)***  
+***[🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)](https://github.com/KWAudio)***  
 Creating an AI-powered emotional companion robot to support elderly living alone:
 ```
 💬 Emotion-based conversational AI using KoGPT and TTS
