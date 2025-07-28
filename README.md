@@ -17,7 +17,7 @@ Developing a custom Ground Control System by integrating Mission Planner with X-
 
 🔧 Focus on SITL (Software-In-The-Loop) and MAVLink protocol
 
-🛠️ Tools: Python, Ubuntu, ArduPilot, Mission Planner, X-Plane
+🛠️ Tools: C#, Python, Ubuntu, ArduPilot, Mission Planner, X-Plane
 ```
 
 ***🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)***  
