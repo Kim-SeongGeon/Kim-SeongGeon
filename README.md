@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ...
 
-***🔹 DS LAB – Drone Ground Station Integration (Work in Progress)***  
+***[🔹 DS LAB – Drone Ground Station Integration (Work in Progress)](https://github.com/Kim-SeongGeon/DSLAB)***  
 Developing a custom Ground Control System by integrating Mission Planner with X-Plane simulator:
 ```
 ✈️ Real-time drone communication and simulation
@@ -40,7 +40,7 @@ Planning a smart interactive kiosk system for public service or store management
 🛠️ Tools: Java (JSP), HTML/CSS, Bootstrap
 ```
 
-***🔹 Personal Java Project (Always in progress)***  
+***[🔹 Personal Java Project (Always in progress)](https://github.com/Kim-SeongGeon/Personal-Portfolio)***  
 Developing a standalone Java application as a learning and portfolio enhancement project:
 ```
 💡 Focus on multi-threaded socket communication and custom UI
