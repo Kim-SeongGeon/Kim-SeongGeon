@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-seonggeon&label=Profile%20views&color=0e75b6&style=flat" alt="kim-seonggeon" /> </p>
 
-- 📫 How to reach me **kimseonggun524@gmail.com or kevin4339@naver.com**
+- 📧 How to reach me **kimseonggun524@gmail.com or kevin4339@naver.com**
 
 - 🔭 I’m currently working on ...
 
