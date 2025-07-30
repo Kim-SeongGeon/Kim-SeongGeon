@@ -47,7 +47,7 @@ Developing a standalone Java application as a learning and portfolio enhancement
 
 📁 Includes features like messaging, file transfer, and client-server architecture
 
-🛠️ Tools: Java, Swing, Threading, Socket Programming
+🛠️ Tools: Java, Swing, Threading, Socket Programming, MYSQL
 ```
 
 <h3 align="left">Connect with me:</h3>
