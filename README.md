@@ -10,14 +10,16 @@
 
 - 🔭 I’m currently working on ...
 
-***[🔹 DS LAB – Drone Ground Station Integration (Work in Progress)](https://github.com/Kim-SeongGeon/DSLAB)***  
-Developing a custom Ground Control System by integrating Mission Planner with X-Plane simulator:
+***[🔹 DS LAB – Ground Robotics Communication (Work in Progress)](https://github.com/Kim-SeongGeon/DSLAB)***  
+Implementing real-time bidirectional communication between UGV and GCS based on STANAG 4586 protocol:
 ```
-✈️ Real-time drone communication and simulation
+📡 UGV communication protocol design & implementation (STANAG 4586)
 
-🔧 Focus on SITL (Software-In-The-Loop) and STANAG-4586 protocol
+🔄 Real-time data exchange between X-Plane & Mission Planner
 
-🛠️ Tools: C#, Python, Ubuntu, JavaScrpit, React, Spring Boot, MySQL, ArduPilot, Mission Planner, X-Plane
+📊 Communication stability & data loss analysis
+
+🛠️ Tools: Python, C#, JavaScript, React, Spring Boot, MySQL, X-Plane, Mission Planner
 ```
 
 ***[🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)](https://github.com/KWAudio)***  
