@@ -32,16 +32,6 @@ Creating an AI-powered emotional companion robot to support elderly living alone
 🛠️ Tools: Python, NLP, TTS, Embedded Systems, Figma
 ```
 
-***🔹 Smart Kiosk System (Upcoming)***  
-Planning a smart interactive kiosk system for public service or store management:
-```
-🖥️ Optimized for 1920x1080 kiosk display
-
-📦 Menu/store management interface and real-time interaction
-
-🛠️ Tools: Java (JSP), HTML/CSS, Bootstrap
-```
-
 ***[🔹 Personal Java Project (Always in progress)](https://github.com/Kim-SeongGeon/Personal-Portfolio)***  
 Developing a standalone Java application as a learning and portfolio enhancement project:
 ```
