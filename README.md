@@ -32,7 +32,7 @@ Creating an AI-powered emotional companion robot to support elderly living alone
 🛠️ Tools: Python, NLP, TTS, Embedded Systems, Figma
 ```
 
-***[🔹 Personal Java Project (Always in progress)](https://github.com/Kim-SeongGeon/Personal-Portfolio)***  
+***[🔹 Personal Java Project (Paused)](https://github.com/Kim-SeongGeon/Personal-Portfolio)***  
 Developing a standalone Java application as a learning and portfolio enhancement project:
 ```
 💡 Focus on multi-threaded socket communication and custom UI
