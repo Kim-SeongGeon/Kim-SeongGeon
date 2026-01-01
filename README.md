@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ...
 
-***[🔹 DS LAB – Ground Robotics Communication (Work in Progress)](https://github.com/Kim-SeongGeon/DSLAB)***  
+***[🔹 DS LAB – Ground Robotics Communication (Completed as of Nov 2025)](https://github.com/Kim-SeongGeon/DSLAB)***  
 Implementing real-time bidirectional communication between UGV and GCS based on STANAG 4586 protocol:
 ```
 📡 UGV communication protocol design & implementation (STANAG 4586)
@@ -22,7 +22,7 @@ Implementing real-time bidirectional communication between UGV and GCS based on 
 🛠️ Tools & Technologies : JavaScript, React, Spring Boot(Gradle), MySQL, Python, C#, X-Plane, Mission Planner, STANAG 4586 Protocol, TCP/UDP Communication
 ```
 
-***[🔹 We-Robot – Companion Robot for the Elderly (Work in Progress)](https://github.com/KWAudio)***  
+***[🔹 We-Robot – Companion Robot for the Elderly (Completed as of Nov 2025)](https://github.com/KWAudio)***  
 Creating an AI-powered emotional companion robot to support elderly living alone:
 ```
 💬 Emotion-based conversational AI using KoGPT and TTS
