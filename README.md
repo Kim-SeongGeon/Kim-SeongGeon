@@ -19,7 +19,7 @@ Implementing real-time bidirectional communication between UGV and GCS based on 
 
 📊 Communication stability & data loss analysis
 
-🛠️ Tools & Technologies : JavaScript, React, Spring Boot(Gradle), MySQL, Python, C#, X-Plane, Mission Planner, STANAG 4586 Protocol, TCP/UDP Communication
+🛠️ Tools & Technologies : JavaScript, React, Spring Boot(Gradle), MySQL, Python, C#, ROS1 NOETIC, ROS1 MELODIC, ROS2 HUMBLE, TCP/UDP Communication, X-Plane, Mission Planner, STANAG 4586 Protocol
 ```
 
 ***[🔹 We-Robot – Companion Robot for the Elderly (Completed as of Nov 2025)](https://github.com/KWAudio)***  
