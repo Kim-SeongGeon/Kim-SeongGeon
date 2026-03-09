@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on ...
 
-***[🔹 AISL (Getting Ready...)]***
+***[🔹 AISL - Ground Swarm Robot Operation and Control]***
 
 ***[🔹 DS LAB – Ground Robotics Communication (Completed as of Nov 2025)](https://github.com/Kim-SeongGeon/DSLAB)***  
 Implementing real-time bidirectional communication between UGV and GCS based on STANAG 4586 protocol:
