@@ -10,7 +10,19 @@
 
 - 🔭 I’m currently working on ...
 
-***[🔹 AISL - Ground Swarm Robot Operation and Control](https://github.com/Kim-SeongGeon/AISL)***
+***[🔹 AISL - Ground Swarm Robot Operation and Control](https://github.com/Kim-SeongGeon/AISL)***  
+Researching and developing control technologies for ultra-small unmanned ground robot swarm operations, with a focus on cooperative mission execution, multi-robot coordination, and real-time field deployment:
+```
+🚗 Swarm operation control algorithm design and implementation for ultra-small UGVs
+
+📡 Multi-robot communication and coordination for distributed mission execution
+
+🗺️ Localization, map merging, and shared situational awareness in multi-robot environments
+
+🤖 Autonomous task allocation and cooperative control for ground robot teams
+
+🛠️ Tools & Technologies : Python, C++, ROS2, OpenCV, Linux, SLAM, Multi-Robot Systems
+```
 
 ***[🔹 DS LAB – Ground Robotics Communication (Completed as of Nov 2025)](https://github.com/Kim-SeongGeon/DSLAB)***  
 Implementing real-time bidirectional communication between UGV and GCS based on STANAG 4586 protocol:
