@@ -13,7 +13,7 @@
 ***[🔹 AISL - Ground Swarm Robot Operation and Control](https://github.com/Kim-SeongGeon/AISL)***  
 Researching and developing control technologies for ultra-small unmanned ground robot swarm operations, with a focus on cooperative mission execution, multi-robot coordination, and real-time field deployment:
 ```
-🚗 Swarm operation control algorithm design and implementation for ultra-small UGVs
+🚗 Swarm operation control algorithm design and implementation for small UGVs
 
 📡 Multi-robot communication and coordination for distributed mission execution
 
